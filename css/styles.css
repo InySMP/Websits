@@ -17,6 +17,12 @@ body {
 /* --- Colors and Neon Glow --- */
 .aqua { color: #00ffff; } 
 .green { color: #00ff00; } 
+.red { color: red; }
+.gray { color: gray; }
+.black { color:black; }
+
+/* --- Media Colors --- */
+.yt { color: red; }
 
 .neon-glow {
     /* 應用霓虹光暈效果 */
